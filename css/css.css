@@ -6,24 +6,24 @@ body {
     text-align: center;
   }
   
-  img {
+img {
     display: block;
     margin: 0 auto;
-  }
+}
   
-  p {
+p {
     margin-top: 10px; /* Ajusta el margen según sea necesario */
-  }
+}
   
   /* Para poner la imagen encima del texto */
-  .imagen-encima {
+.imagen-encima {
     position: relative;
     top: -50px; /* Ajusta la posición vertical según sea necesario */
-  }
+}
   
   /* Para poner la imagen debajo del texto */
-  .imagen-debajo {
-    position: relative;
-    bottom: -50px; /* Ajusta la posición vertical según sea necesario */
-  }
+.imagen-debajo {
+  position: relative;
+  bottom: -50px; /* Ajusta la posición vertical según sea necesario */
+}
   
