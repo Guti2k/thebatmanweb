@@ -2,3 +2,7 @@ body {
   margin: 0 auto;
   width: 500px; /* Ajusta el ancho según sea necesario */
 }
+
+header {
+    background-image: url(../img/header_background.jpeg);
+}
