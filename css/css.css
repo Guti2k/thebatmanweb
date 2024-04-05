@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Reddit+Mono:wght@200..900&display=swap');
 
-
-
 header{
     background-image: url(../img/header_background.jpeg);
     background-size: cover;
@@ -51,16 +49,22 @@ footer p{
     text-align: center;
 }
 
-.imagentabla {
+.mejoratexto {
+    font-family: Arial; 
+    font-size: 18px;
+    text-align: center;
+}
+
+.container {
     display: flex;
 }
 
-.imgtabla{
+.column {
     flex: 1;
     padding: 10px;
 }
 
-.imagen {
+.imagenmejora {
     width: 80%;
     height: 300px;
     text-align: center;
