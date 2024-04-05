@@ -1,16 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Reddit+Mono:wght@200..900&display=swap');
+
 header{
     background-image: url(../img/header_background.jpeg);
     background-size: cover;
     background-position: center center;
     height: 625px;
-    width: 1900px;
+    width: 100%;
+    font-family: "preconnect", system-ui;
 }
 
 
 header h2{
     text-align: center;
     color: white;
-    padding: 325px;
+    padding: 100%;
+    font-family: "preconnect", system-ui;
 }
 
+main{
+    max-width: 550px;
+    width: 100%;
+    padding: 0 20px;
+    margin: 0 auto;
+    font-family: "preconnect", system-ui;
+}
 
+main img {
+    max-width: 550px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+main a{
+    color: red;
+}
+
+footer {
+    background-color: black;
+    width: 100%;
+    padding: 10px;
+}
+
+footer p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
