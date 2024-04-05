@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Reddit+Mono:wght@200..900&display=swap');
 
+
+
 header{
     background-image: url(../img/header_background.jpeg);
     background-size: cover;
@@ -19,6 +21,7 @@ header h2{
 }
 
 main{
+    background-color: rgb(92, 96, 99);
     max-width: 550px;
     width: 100%;
     padding: 0 20px;
@@ -34,6 +37,7 @@ main img {
 
 main a{
     color: red;
+    
 }
 
 footer {
