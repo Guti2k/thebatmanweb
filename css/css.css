@@ -1,1 +1,16 @@
+header{
+    background-image: url(../img/header_background.jpeg);
+    background-size: cover;
+    background-position: center center;
+    height: 625px;
+    width: 1900px;
+}
+
+
+header h2{
+    text-align: center;
+    color: white;
+    padding: 325px;
+}
+
 
